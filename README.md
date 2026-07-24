@@ -1,9 +1,7 @@
 # tsuki-game
-A shogi- and chess-style piece-movement abstract strategy game for two players.
-
+2-player zero-sum finite deterministic perfect-information abstract strategy game with piece movement.
 ## Rules
 
-In folder "1.3", a cover illustration was added to the 17th edition of the "Figures-only Rules."
-- [Figures-only Rules](1.3/tsuki-rule-fig-17+.pdf)
-- [English-only Rules](1.3/tsuki-rule-en-17.pdf)
-- [Japanese-only Rules](1.3/tsuki-rule-jp-17.pdf)
+- [Figures-only Rules](1.4/tsuki-rule-fig-18.pdf)
+- [English-only Rules](1.4/tsuki-rule-en-18.pdf)
+- [Japanese-only Rules](1.4/tsuki-rule-jp-18.pdf)
