@@ -1,5 +1,5 @@
 # tsuki-game
-2-player zero-sum finite deterministic perfect-information abstract strategy game with piece movement.
+2-player zero-sum finite deterministic perfect-information abstract strategy game with piece movement
 ## Rules
 
 - [Figures-only Rules](1.4/tsuki-rule-fig-18.pdf)
